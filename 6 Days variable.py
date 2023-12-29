@@ -15,3 +15,5 @@ print("type of b is", type(b))
 
 dic1 ={"name": "sakshi","age":20}
 print(dic1)
+
+dic2={"name": "Nikhil","Age": 21}
