@@ -10,6 +10,8 @@ m="gaurav"
 print(m[0:4])
 print(m[0:-3])
 print(m[-3])
+n ="Gaurav"
+print(n[0:3])
 
 A="harry"
 print(A[-4:-2])
